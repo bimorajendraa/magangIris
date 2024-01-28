@@ -1,0 +1,5 @@
+/home/bimo/code/project 1/build/CMakeFiles/rebuild_cache.dir
+/home/bimo/code/project 1/build/CMakeFiles/edit_cache.dir
+/home/bimo/code/project 1/build/CMakeFiles/tugascvt.dir
+/home/bimo/code/project 1/build/CMakeFiles/tugascvd.dir
+/home/bimo/code/project 1/build/CMakeFiles/tugascv.dir
